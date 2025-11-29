@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I’m Dheeraj H R
+Data Analyst | Data Engineer | Data Scientist
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmN5NnRvMmdpbnB4dW1kZTR3bnByMHBhMHFhMDk1aTg1MjVyOTFkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="500"/> </p>
 
 <!--
 **DheerajHRShetty-27/DheerajHRShetty-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
